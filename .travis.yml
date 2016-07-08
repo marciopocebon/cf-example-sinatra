@@ -9,3 +9,5 @@ deploy:
   organization: pcfdev-org
   space: pcfdev-space
   skip_ssl_validation: true
+  on:
+    branch: travis
