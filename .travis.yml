@@ -1,4 +1,4 @@
-install: true
+install: gem install 'json_pure'
 script: ''
 deploy:
   edge: 
