@@ -1,9 +1,11 @@
- deploy:
-   edge: true
-   provider: cloudfoundry
-   username: admin
-   password: admin
-   api: https://api.52.53.178.244.xip.io
-   organization: pcfdev-org
-   space: pcfdev-space
-   skip_ssl_validation: true
+install: true
+script: ''
+deploy:
+  edge: true
+  provider: cloudfoundry
+  username: admin
+  password: admin
+  api: https://api.52.53.178.244.xip.io
+  organization: pcfdev-org
+  space: pcfdev-space
+  skip_ssl_validation: true
