@@ -1,4 +1,4 @@
-applications:
+applications:  
 - name: test
   instances: 1
   memory: 256M
