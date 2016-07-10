@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 wget https://github.com/s-matyukevich/set-token/raw/master/out/cf
 chmod +x cf
