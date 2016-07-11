@@ -4,5 +4,5 @@ applications:
   memory: 256M
   disk_quota: 512M
   host: test
-  domain: 52.53.178.244.xip.io
+  domain: 52.53.246.25.xip.io
   stack: cflinuxfs2
