@@ -4,4 +4,4 @@ deploy:
   provider: script
   script: ./deploy.sh
   on:
-    branch: travis       
+    branch: travis        
